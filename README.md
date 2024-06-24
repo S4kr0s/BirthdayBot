@@ -1,0 +1,2 @@
+# BirthdayBot
+ This is a bot for Discord with which you can do the following: Set your birthday, view a list of all registered birthdays and change or remove your birthday. The bot will then check each day if there is a birthday in its database and notify the user via private messaging. On my own discord server, these people also receive a dedicated birthday role for this day and their birthday will be announced publicy in a text channel.
